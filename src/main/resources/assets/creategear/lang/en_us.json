@@ -1,0 +1,93 @@
+{
+  //HARDENED CLAY
+  "item.creategear.hardened_clay": "Hardened Clay",
+  //MOLDS
+  "item.creategear.empty_mold": "Empty Mold",
+  "item.creategear.hammer_head_mold": "Hammer Head Mold",
+  "item.creategear.excavator_head_mold": "Excavator Head Mold",
+  "item.creategear.scythe_head_mold": "Scythe Head Mold",
+  "item.creategear.dagger_head_mold": "Dagger Head Mold",
+  "item.creategear.hatchet_head_mold": "Hatchet Head Mold",
+  //HAMMERS
+  "item.creategear.wood_hammer": "Wood Hammer",
+  "item.creategear.stone_hammer": "Stone Hammer",
+  "item.creategear.iron_hammer": "Iron Hammer",
+  "item.creategear.gold_hammer": "Gold Hammer",
+  "item.creategear.diamond_hammer": "Diamond Hammer",
+  "item.creategear.netherite_hammer": "Netherite Hammer",
+  //HAMMER HEADS
+  "item.creategear.wood_hammer_head": "Wood Hammer Head",
+  "item.creategear.stone_hammer_head": "Stone Hammer Head",
+  "item.creategear.iron_hammer_head": "Iron Hammer Head",
+  "item.creategear.gold_hammer_head": "Gold Hammer Head",
+  "item.creategear.diamond_hammer_head": "Diamond Hammer Head",
+  "item.creategear.netherite_hammer_head": "Netherite Hammer Head",
+  //EXCAVATORS
+  "item.creategear.wood_excavator": "Wood Excavator",
+  "item.creategear.stone_excavator": "Stone Excavator",
+  "item.creategear.iron_excavator": "Iron Excavator",
+  "item.creategear.gold_excavator": "Gold Excavator",
+  "item.creategear.diamond_excavator": "Diamond Excavator",
+  "item.creategear.netherite_excavator": "Netherite Excavator",
+  //EXCAVATOR HEADS
+  "item.creategear.wood_excavator_head": "Wood Excavator Head",
+  "item.creategear.stone_excavator_head": "Stone Excavator Head",
+  "item.creategear.iron_excavator_head": "Iron Excavator Head",
+  "item.creategear.gold_excavator_head": "Gold Excavator Head",
+  "item.creategear.diamond_excavator_head": "Diamond Excavator Head",
+  "item.creategear.netherite_excavator_head": "Netherite Excavator Head",
+  //SCYTHE
+  "item.creategear.wood_scythe": "Wood Scythe",
+  "item.creategear.stone_scythe": "Stone Scythe",
+  "item.creategear.iron_scythe": "Iron Scythe",
+  "item.creategear.gold_scythe": "Gold Scythe",
+  "item.creategear.diamond_scythe": "Diamond Scythe",
+  "item.creategear.netherite_scythe": "Netherite Scythe",
+  //SCYTHE HEADS
+  "item.creategear.wood_scythe_head": "Wood Scythe Head",
+  "item.creategear.stone_scythe_head": "Stone Scythe Head",
+  "item.creategear.iron_scythe_head": "Iron Scythe Head",
+  "item.creategear.gold_scythe_head": "Gold Scythe Head",
+  "item.creategear.diamond_scythe_head": "Diamond Scythe Head",
+  "item.creategear.netherite_scythe_head": "Netherite Scythe Head",
+  //DAGGER
+  "item.creategear.wood_dagger": "Wood Dagger",
+  "item.creategear.stone_dagger": "Stone Dagger",
+  "item.creategear.iron_dagger": "Iron Dagger",
+  "item.creategear.gold_dagger": "Gold Dagger",
+  "item.creategear.diamond_dagger": "Diamond Dagger",
+  "item.creategear.netherite_dagger": "Netherite Dagger",
+  //DAGGER HEAD
+  "item.creategear.wood_dagger_head": "Wood Dagger Head",
+  "item.creategear.stone_dagger_head": "Stone Dagger Head",
+  "item.creategear.iron_dagger_head": "Iron Dagger Head",
+  "item.creategear.gold_dagger_head": "Gold Dagger Head",
+  "item.creategear.diamond_dagger_head": "Diamond Dagger Head",
+  "item.creategear.netherite_dagger_head": "Netherite Dagger Head",
+  //HATCHET
+  "item.creategear.wood_hatchet": "Wood Hatchet",
+  "item.creategear.stone_hatchet": "Stone Hatchet",
+  "item.creategear.iron_hatchet": "Iron Hatchet",
+  "item.creategear.gold_hatchet": "Gold Hatchet",
+  "item.creategear.diamond_hatchet": "Diamond Hatchet",
+  "item.creategear.netherite_hatchet": "Netherite Hatchet",
+  //HATCHET HEAD
+  "item.creategear.wood_hatchet_head": "Wood Hatchet Head",
+  "item.creategear.stone_hatchet_head": "Stone Hatchet Head",
+  "item.creategear.iron_hatchet_head": "Iron Hatchet Head",
+  "item.creategear.gold_hatchet_head": "Gold Hatchet Head",
+  "item.creategear.diamond_hatchet_head": "Diamond Hatchet Head",
+  "item.creategear.netherite_hatchet_head": "Netherite Hatchet Head",
+  //BUCKETS
+  "item.creategear.iron_liquid_bucket": "Iron Liquid Bucket",
+  "item.creategear.gold_liquid_bucket": "Gold Liquid Bucket",
+  "item.creategear.diamond_liquid_bucket": "Diamond Liquid Bucket",
+  "item.creategear.netherite_liquid_bucket": "Netherite Liquid Bucket",
+  //FLUIDS
+  "fluid_type.creategear.iron_liquid_fluid": "Iron Fluid",
+  "fluid_type.creategear.gold_liquid_fluid": "Gold Fluid",
+  "fluid_type.creategear.diamond_liquid_fluid": "Diamond Fluid",
+  "fluid_type.creategear.netherite_liquid_fluid": "Netherite Fluid",
+  //CREATIVE TAB
+  "itemGroup.creategeartab": "Create Gear"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "creategear:empty_mold"
+    },
+    {
+      "tag": "creategear:excavator_head"
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:excavator_head_mold"
+    }
+  ]
+}

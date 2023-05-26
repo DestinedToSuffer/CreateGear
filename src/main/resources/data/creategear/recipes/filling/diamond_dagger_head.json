@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "creategear:dagger_head_mold"
+    },
+    {
+      "amount": 500,
+      "fluid": "creategear:diamond_liquid_fluid",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:diamond_dagger_head"
+    }
+  ]
+}

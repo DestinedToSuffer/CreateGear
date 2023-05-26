@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "creategear:excavator_head_mold"
+    },
+    {
+      "amount": 1000,
+      "fluid": "creategear:iron_liquid_fluid",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:iron_excavator_head"
+    }
+  ]
+}

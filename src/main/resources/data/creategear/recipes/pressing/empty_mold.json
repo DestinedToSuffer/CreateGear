@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "creategear:hardened_clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:empty_mold"
+    }
+  ]
+}

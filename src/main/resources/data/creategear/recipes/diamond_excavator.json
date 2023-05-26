@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X",
+    "# "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item":"creategear:diamond_excavator_head"
+    }
+  },
+  "result": {
+    "item": "creategear:diamond_excavator"
+  }
+}

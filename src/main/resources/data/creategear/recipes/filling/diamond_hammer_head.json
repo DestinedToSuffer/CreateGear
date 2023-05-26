@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "creategear:hammer_head_mold"
+    },
+    {
+      "amount": 1000,
+      "fluid": "creategear:diamond_liquid_fluid",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:diamond_hammer_head"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "creategear:empty_mold"
+    },
+    {
+      "tag": "creategear:hatchet_head"
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:hatchet_head_mold"
+    }
+  ]
+}

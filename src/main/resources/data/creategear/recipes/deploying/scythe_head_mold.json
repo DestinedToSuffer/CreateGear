@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "creategear:empty_mold"
+    },
+    {
+      "tag": "creategear:scythe_head"
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:scythe_head_mold"
+    }
+  ]
+}

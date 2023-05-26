@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "creategear:diamond_dagger_head"
+    },
+    {
+      "amount": 250,
+      "fluid": "creategear:netherite_liquid_fluid",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:netherite_dagger_head"
+    }
+  ]
+}

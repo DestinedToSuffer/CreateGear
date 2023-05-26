@@ -1,0 +1,10 @@
+{
+  "values": [
+    "creategear:wood_hammer_head",
+    "creategear:stone_hammer_head",
+    "creategear:iron_hammer_head",
+    "creategear:gold_hammer_head",
+    "creategear:diamond_hammer_head",
+    "creategear:netherite_hammer_head"
+  ]
+}

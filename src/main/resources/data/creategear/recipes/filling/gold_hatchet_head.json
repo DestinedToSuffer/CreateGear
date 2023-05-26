@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "creategear:hatchet_head_mold"
+    },
+    {
+      "amount": 1000,
+      "fluid": "creategear:gold_liquid_fluid",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "creategear:gold_hatchet_head"
+    }
+  ]
+}

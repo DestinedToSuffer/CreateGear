@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X",
+    "# "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item":"creategear:gold_hatchet_head"
+    }
+  },
+  "result": {
+    "item": "creategear:gold_hatchet"
+  }
+}
