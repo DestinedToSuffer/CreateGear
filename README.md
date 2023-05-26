@@ -8,7 +8,6 @@ Tinkers Construct for the inspirations and my favorite mod Create!
 
 # **THIS MOD REQUIRES CREATE(0.5.1a) TO BE INSTALLED TO WORK**
 
-<p align="center"><img src="https://i.imgur.com/1q3BkU3.png" alt="Logo" width="200"></p>
 <h1 align="center">CreateGear  <br>
 	<a href="https://www.curseforge.com/minecraft/mc-mods/creategear/files"><img src="https://img.shields.io/badge/Available%20for-MC%201.14%20to%201.18-c70039" alt="Supported Versions"></a>
 	<a href="[https://github.com/Creators-of-Create/Create/blob/master/LICENSE](https://github.com/DestinedToSuffer/CreateGear/blob/master/LICENSE)"><img src="https://img.shields.io/github/license/Creators-of-Create/Create?style=flat&color=900c3f" alt="License"></a>
